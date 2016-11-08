@@ -1,0 +1,127 @@
+@charset "utf-8";
+/*reset.css*/
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 62.5%;
+    vertical-align: baseline;
+    background: transparent;
+    outline: 0;
+    color: #222;
+}
+*{
+    box-sizing: border-box;
+    -webkit-overflow-scrolling: touch;
+    word-break:break-all;
+    outline:0;
+    -webkit-tap-highlight-color: transparent;
+}
+body {
+    line-height: 1;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+nav ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after, q:before, q:after {
+    content: '';
+    content: none;
+}
+a {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+    -webkit-tap-highlight-color: transparent;
+}
+ins {
+    background-color: #ff9;
+    color: #000;
+    text-decoration: none;
+}
+mark {
+    background-color: #ff9;
+    color: #000;
+    font-style: italic;
+    font-weight: bold;
+}
+del {
+    text-decoration: line-through;
+}
+abbr[title], dfn[title] {
+    border-bottom: 1px dotted;
+    cursor: help;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #cccccc;
+    margin: 1em 0;
+    padding: 0;
+}
+input, select {
+    vertical-align: middle;
+}
+/*底部菜单*/
+.wrapper {
+    max-width:640px;
+    margin:0 auto;
+    background-color: #Fff;
+}
+.btn-menu{
+    width:16rem;
+    line-height: 2.6rem;
+    text-align: center;
+    font-size: 1.4rem;
+    background-color: #f8f8f8;
+    color:#666;
+    border:1px solid #dedede;
+    margin:5rem auto;
+    display: block;
+}
+.txt-choosed{
+    text-align: center;
+    font-size: 1.4rem;
+}
+.txt-choosed span{
+    font-size: 1.4rem;
+}
+.bottom-menu-wrapper{
+    position:fixed;
+    bottom:0;
+    left:0;
+    right:0;
+    z-index:33;
+}
+.bottom-menu-wrapper .sub-menu{
+    background-color:#fff;
+    margin-bottom:0.5rem;
+    margin-left:0.5rem;
+    margin-right:0.5rem;
+    border-radius:0.3rem;
+    line-height:3rem;
+    text-align:center;
+    font-size:1.4rem;
+}
+.modal-menu-bg{
+    background:rgba(0,0,0,.6);
+    position:fixed;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+    z-index:32;
+}
