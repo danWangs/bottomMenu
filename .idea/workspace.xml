@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="301ab180-ef2c-42a9-ad9d-36ff55ecbdbc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bottomMenu.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bottomMenu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-2.0.3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/wangdan.xml" />
-    </list>
+    <list default="true" id="301ab180-ef2c-42a9-ad9d-36ff55ecbdbc" name="Default" comment="" />
     <ignored path="bottomMenu.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,8 +24,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.26337448">
-              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.9218107">
+              <caret line="38" column="11" selection-start-line="16" selection-start-column="8" selection-end-line="38" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -283,8 +277,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.26337448">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.9218107">
+          <caret line="38" column="11" selection-start-line="16" selection-start-column="8" selection-end-line="38" selection-end-column="11" />
           <folding />
         </state>
       </provider>
